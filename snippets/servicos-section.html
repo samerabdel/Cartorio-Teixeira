@@ -1,0 +1,369 @@
+<!--
+  Grupos de serviços atualizados para abrir modais.
+  O funcionamento usa o diálogo de serviço em public/index.html,
+  os eventos de public/script.js e os textos em public/service-content.json.
+  O serviço e-Notariado permanece como link externo.
+-->
+<div class="service-groups">
+  <section aria-labelledby="notary-title" class="service-group">
+    <div class="service-group-heading">
+      <span aria-hidden="true" class="group-icon">
+        <svg viewbox="0 0 24 24">
+          <path d="M7 3h7l4 4v14H7z">
+          </path>
+          <path d="M14 3v5h5M10 13h5M10 17h5">
+          </path>
+        </svg>
+      </span>
+      <div>
+        <span class="group-kicker">
+          Atos notariais
+        </span>
+        <h3 id="notary-title">
+          Tabelionato de Notas
+        </h3>
+      </div>
+      <span class="group-count">
+        18 servi&ccedil;os
+      </span>
+    </div>
+    <ul class="service-list">
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Abertura e reconhecimento de firma"
+          class="service-link" data-service-card=""
+          data-service-id="notas-abertura-e-reconhecimento-de-firma"
+          type="button">
+          <span class="service-link-label">
+            Abertura e reconhecimento de firma
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Apostilamento de Haia"
+          class="service-link" data-service-card=""
+          data-service-id="notas-apostilamento-de-haia"
+          type="button">
+          <span class="service-link-label">
+            Apostilamento de Haia
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Ata notarial" class="service-link"
+          data-service-card=""
+          data-service-id="notas-ata-notarial" type="button">
+          <span class="service-link-label">
+            Ata notarial
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Autentica&ccedil;&atilde;o de documentos" class="service-link"
+          data-service-card=""
+          data-service-id="notas-autenticacao-de-documentos"
+          type="button">
+          <span class="service-link-label">
+            Autentica&ccedil;&atilde;o de documentos
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Autoriza&ccedil;&atilde;o de viagem eletr&ocirc;nica"
+          class="service-link" data-service-card=""
+          data-service-id="notas-autorizacao-de-viagem-eletronica"
+          type="button">
+          <span class="service-link-label">
+            Autoriza&ccedil;&atilde;o de viagem eletr&ocirc;nica
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Autoriza&ccedil;&atilde;o de viagem para menores"
+          class="service-link" data-service-card=""
+          data-service-id="notas-autorizacao-de-viagem-para-menores"
+          type="button">
+          <span class="service-link-label">
+            Autoriza&ccedil;&atilde;o de viagem para menores
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Autoriza&ccedil;&atilde;o eletr&ocirc;nica de doa&ccedil;&atilde;o de &oacute;rg&atilde;os (AEDO)"
+          class="service-link" data-service-card=""
+          data-service-id="notas-autorizacao-eletronica-de-doacao-de-orgaos-aedo"
+          type="button">
+          <span class="service-link-label">
+            Autoriza&ccedil;&atilde;o eletr&ocirc;nica de doa&ccedil;&atilde;o de &oacute;rg&atilde;os (AEDO)
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <a data-service-card="" href="https://www.e-notariado.org.br/customer" rel="noopener noreferrer"
+          target="_blank">
+          Certificado Digital (e-Notariado)
+          <span>
+            &nearrow;
+          </span>
+        </a>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Div&oacute;rcio extrajudicial"
+          class="service-link" data-service-card=""
+          data-service-id="notas-divorcio-extrajudicial"
+          type="button">
+          <span class="service-link-label">
+            Div&oacute;rcio extrajudicial
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Escritura de compra e venda"
+          class="service-link" data-service-card=""
+          data-service-id="notas-escritura-de-compra-e-venda"
+          type="button">
+          <span class="service-link-label">
+            Escritura de compra e venda
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Escritura de doa&ccedil;&atilde;o"
+          class="service-link" data-service-card=""
+          data-service-id="notas-escritura-de-doacao"
+          type="button">
+          <span class="service-link-label">
+            Escritura de doa&ccedil;&atilde;o
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Escritura de emancipa&ccedil;&atilde;o" class="service-link"
+          data-service-card=""
+          data-service-id="notas-escritura-de-emancipacao"
+          type="button">
+          <span class="service-link-label">
+            Escritura de emancipa&ccedil;&atilde;o
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Escritura de invent&aacute;rio e partilha" class="service-link"
+          data-service-card=""
+          data-service-id="notas-escritura-de-inventario-e-partilha"
+          type="button">
+          <span class="service-link-label">
+            Escritura de invent&aacute;rio e partilha
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Pacto antenupcial"
+          class="service-link" data-service-card=""
+          data-service-id="notas-pacto-antenupcial"
+          type="button">
+          <span class="service-link-label">
+            Pacto antenupcial
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Procura&ccedil;&atilde;o p&uacute;blica" class="service-link"
+          data-service-card=""
+          data-service-id="notas-procuracao-publica"
+          type="button">
+          <span class="service-link-label">
+            Procura&ccedil;&atilde;o p&uacute;blica
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Testamento p&uacute;blico"
+          class="service-link" data-service-card=""
+          data-service-id="notas-testamento-publico"
+          type="button">
+          <span class="service-link-label">
+            Testamento p&uacute;blico
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Uni&atilde;o est&aacute;vel"
+          class="service-link" data-service-card=""
+          data-service-id="notas-uniao-estavel" type="button">
+          <span class="service-link-label">
+            Uni&atilde;o est&aacute;vel
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Usucapi&atilde;o (ata notarial)"
+          class="service-link" data-service-card=""
+          data-service-id="notas-usucapiao-ata-notarial"
+          type="button">
+          <span class="service-link-label">
+            Usucapi&atilde;o (ata notarial)
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+    </ul>
+  </section>
+  <section aria-labelledby="civil-title" class="service-group">
+    <div class="service-group-heading">
+      <span aria-hidden="true" class="group-icon">
+        <svg viewbox="0 0 24 24">
+          <circle cx="12" cy="8" r="3.5">
+          </circle>
+          <path d="M5 21v-2a7 7 0 0 1 14 0v2M8 3.8 6.5 2M16 3.8 17.5 2">
+          </path>
+        </svg>
+      </span>
+      <div>
+        <span class="group-kicker">
+          Registros e certid&otilde;es
+        </span>
+        <h3 id="civil-title">
+          Registro Civil
+        </h3>
+      </div>
+      <span class="group-count">
+        6 servi&ccedil;os
+      </span>
+    </div>
+    <ul class="service-list">
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Altera&ccedil;&atilde;o de nome ou sobrenome" class="service-link"
+          data-service-card=""
+          data-service-id="registro-civil-alteracao-de-nome-ou-sobrenome"
+          type="button">
+          <span class="service-link-label">
+            Altera&ccedil;&atilde;o de nome ou sobrenome
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog"
+          aria-label="Ver informa&ccedil;&otilde;es: Altera&ccedil;&atilde;o de prenome e sexo de pessoa transg&ecirc;nero"
+          class="service-link" data-service-card=""
+          data-service-id="registro-civil-alteracao-de-prenome-e-sexo-de-pessoa-transgenero"
+          type="button">
+          <span class="service-link-label">
+            Altera&ccedil;&atilde;o de prenome e sexo de pessoa transg&ecirc;nero
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Interdi&ccedil;&atilde;o"
+          class="service-link" data-service-card=""
+          data-service-id="registro-civil-interdicao" type="button">
+          <span class="service-link-label">
+            Interdi&ccedil;&atilde;o
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Casamento" class="service-link"
+          data-service-card="" data-service-id="registro-civil-casamento"
+          type="button">
+          <span class="service-link-label">
+            Casamento
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: Nascimento" class="service-link"
+          data-service-card="" data-service-id="registro-civil-nascimento"
+          type="button">
+          <span class="service-link-label">
+            Nascimento
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+      <li>
+        <button aria-haspopup="dialog" aria-label="Ver informa&ccedil;&otilde;es: &Oacute;bito" class="service-link"
+          data-service-card="" data-service-id="registro-civil-obito"
+          type="button">
+          <span class="service-link-label">
+            &Oacute;bito
+          </span>
+          <span aria-hidden="true" class="service-link-arrow">
+            &nearrow;
+          </span>
+        </button>
+      </li>
+    </ul>
+  </section>
+</div>

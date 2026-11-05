@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://samerabdel.github.io/cartorio-teixeira-site/cartorioteixeira/sitemap.xml

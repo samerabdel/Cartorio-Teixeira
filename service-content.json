@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "notas-abertura-e-reconhecimento-de-firma",
+    "category": "Tabelionato de Notas",
+    "title": "Abertura e reconhecimento de firma",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "abertura de firma"
+      },
+      {
+        "type": "paragraph",
+        "text": "Estrangeiros podem abrir firma? Sim, desde que o estrangeiro consiga se comunicar com o preposto autorizado, sem intervenção de terceiros, ou com a presença de um tradutor público juramentado. Deverá apresentar documento de identificação com foto (Passaporte, Carteira de Identidade do Mercosul) e CPF. Pessoas com deficiência visual ou portadoras de visão subnormal podem abrir firma? Claro! Nesse caso, o Tabelião de Notas preencherá a ficha consignando esta circunstância e será necessária a presença de duas testemunhas, devidamente qualificadas, que também assinarão o cartão de firma ou ficha-padrão. Menores de idade podem abrir firma? Sim, o maior de 16 (dezesseis) anos poderá abrir ficha-padrão."
+      },
+      {
+        "type": "paragraph",
+        "text": "Documentação necessária: Documento de identificação (RG, CNH, C.T.P.S a partir do ano de 2010, Passaporte, RG Funcional) e CPF."
+      },
+      {
+        "type": "paragraph",
+        "text": "O reconhecimento de firma é o procedimento no qual o tabelião compara a assinatura presente em um documento com a assinatura cadastrada na ficha-padrão no cartório."
+      },
+      {
+        "type": "paragraph",
+        "text": "Modalidades de reconhecimento de firma Por autenticidade: é o reconhecimento com a declaração expressa de que a firma foi aposta na presença do Tabelião de Notas ou Preposto autorizado, identificando-se o signatário por meio de documento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Por semelhança: é o reconhecimento decorrente do confronto da assinatura apresentada pela parte no documento com a ficha-padrão depositada na serventia ou, ainda, com qualquer outro documento constante no seu arquivo se, entre elas, houver similitude."
+      }
+    ]
+  },
+  {
+    "id": "notas-apostilamento-de-haia",
+    "category": "Tabelionato de Notas",
+    "title": "Apostilamento de Haia",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Onde fazer o apostilamento?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ele pode ser realizado em qualquer cartório autorizado pelo Conselho Nacional de Justiça (CNJ). O procedimento pode ser feito tanto de forma presencial quanto on-line."
+      },
+      {
+        "type": "heading",
+        "text": "Exemplos de documentos que podem ser apostilados?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Diplomas universitários;",
+          "Documentos pessoais;",
+          "Certidões de nascimento, casamento ou óbito;",
+          "Histórico escolar;",
+          "Dentre outros."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-ata-notarial",
+    "category": "Tabelionato de Notas",
+    "title": "Ata notarial",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ata notarial é a certificação da existência ou do modo de existir de fatos jurídicos por constatação pessoal do tabelião de notas ou escrevente autorizado, a requerimento de interessado."
+      },
+      {
+        "type": "paragraph",
+        "text": "São hipóteses, dentre outras, de cabimento de ata notarial, a captura de imagens e de conteúdo de sites de internet, vistorias em objetos e lugares e a narração de situações fáticas com o intuito de prevenir direito e responsabilidade."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para a formalização da ata notarial poderão ser realizadas diligências dentro dos limites territoriais da delegação notarial, inclusive fora do horário de funcionamento da serventia, se necessário."
+      },
+      {
+        "type": "paragraph",
+        "text": "Os fatos serão objetivamente narrados ou transcritos pelo tabelião de notas, sem a emissão de juízo de valor."
+      },
+      {
+        "type": "paragraph",
+        "text": "O tabelião de notas poderá contar com o auxílio de perito, cuja despesa será suportada pelo requerente."
+      }
+    ]
+  },
+  {
+    "id": "notas-autenticacao-de-documentos",
+    "category": "Tabelionato de Notas",
+    "title": "Autenticação de documentos",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A autenticação de cópia de documento público ou particular, extraída pelo sistema reprográfico ou equivalente, desde que apresentado o original ou cópia já autenticada pela mesma serventia, será feita pelo Tabelião de Notas ou Preposto autorizado a pedido do interessado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quem pode solicitar? Qualquer pessoa interessada na autenticação."
+      }
+    ]
+  },
+  {
+    "id": "notas-autorizacao-de-viagem-eletronica",
+    "category": "Tabelionato de Notas",
+    "title": "Autorização de viagem eletrônica",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Autorização Eletrônica de Viagem – AEV, nacional e internacional, de crianças e adolescentes até 16 (dezesseis) anos desacompanhados de ambos ou um de seus pais, a ser emitida, exclusivamente, por intermédio do Sistema de Atos Notariais Eletrônicos – e-Notariado, acessível por meio do link www.e-notariado.org.br. O cliente deve preencher todos os dados corretamente e escolher o cartório desejado."
+      }
+    ]
+  },
+  {
+    "id": "notas-autorizacao-de-viagem-para-menores",
+    "category": "Tabelionato de Notas",
+    "title": "Autorização de viagem para menores",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A , do Conselho Nacional de Justiça (CNJ), que trata da autorização de viagem nacional para crianças e adolescentes, determina que haja expressa autorização judicial para que qualquer criança ou adolescente com idade inferior a 16 anos de idade possa viajar para fora dos limites da comarca onde reside, desacompanhado dos pais ou dos responsáveis. A autorização deixa de ser exigida em circunstâncias específicas, como por exemplo, se a criança ou o adolescente estiver acompanhado, se residir em comarca contígua, ou seja, comarcas de regiões vizinhas, se houver a comprovação de que está acompanhado de ascendente maior ou parente até terceiro grau, desde que o parentesco seja devidamente confirmado."
+      },
+      {
+        "type": "paragraph",
+        "text": "Para as viagens internacionais, o CNJ definiu, por meio a da que nenhuma criança ou adolescente brasileira poderá sair do país acompanhado de estrangeiro domiciliado no exterior. A exceção desses casos se aplica somente se o estrangeiro for o genitor ou se a criança e o adolescente nascido no Brasil não tiver nacionalidade brasileira."
+      }
+    ]
+  },
+  {
+    "id": "notas-autorizacao-eletronica-de-doacao-de-orgaos-aedo",
+    "category": "Tabelionato de Notas",
+    "title": "Autorização eletrônica de doação de órgãos (AEDO)",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O AEDO é uma forma eletrônica de autorizar a doação de órgãos, tecidos e partes do corpo humano."
+      },
+      {
+        "type": "paragraph",
+        "text": "Realizada essa autorização, em caso de necessidade, seu médico poderá acessar e agir de acordo com a declaração."
+      },
+      {
+        "type": "paragraph",
+        "text": "Todo o processo de emissão será digital. Basta acessar ou clicar no ícone acima e preencher o formulário. O cliente deve preencher todos os dados corretamente e escolher o cartório desejado."
+      }
+    ]
+  },
+  {
+    "id": "notas-divorcio-extrajudicial",
+    "category": "Tabelionato de Notas",
+    "title": "Divórcio extrajudicial",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Divórcio é uma forma de extinção do casamento por vontade das partes. Somente após o divórcio é permitido aos cônjuges contrair novo casamento."
+      },
+      {
+        "type": "heading",
+        "text": "Quais são os requisitos?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "As partes devem concordar com todos os termos da escritura de divórcio, ou seja, o divórcio será consensual;",
+          "Inexistência de filhos menores ou incapazes, ou que a mulher esteja grávida, a menos que a guarda, visitas e pensão já tenham sido decididas judicialmente;",
+          "É necessária a presença de advogado como assistente jurídico. As partes podem ter advogados distintos ou um só advogado para ambos."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documento de identificação (RG, CNH, CTPS, Passaporte) e CPF das partes;",
+          "OAB do advogado;",
+          "Comprovante de endereço ou declaração de residência das partes;",
+          "Documentos comprobatórios dos bens a serem partilhados;",
+          "Certidão de Casamento atualizada;",
+          "Certidão de nascimento do filho, se houver;",
+          "Petição Inicial."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-escritura-de-compra-e-venda",
+    "category": "Tabelionato de Notas",
+    "title": "Escritura de compra e venda",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A escritura pública de compra e venda tem o objetivo de garantir a formalização do negócio jurídico entre as partes, conferindo a eles validade e segurança jurídica. Com a finalização da escritura pública de compra e venda, a mesma deve ser levada à registro no Cartório de Registro de Imóveis competente, para ser realizada a transferência da propriedade."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Devem estar presentes todas as partes envolvidas no negócio, ou seja, comprador e o vendedor. Dependendo do regime de bens do vendedor, o cônjuge também deve comparecer."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "heading",
+        "text": "Pessoa Física"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documentos de Identificação (RG e CPF, CNH ou Passaporte);",
+          "Certidão de estado civil atualizada."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Pessoa Jurídica"
+      },
+      {
+        "type": "paragraph",
+        "text": "Documentos que comprovem a representação da pessoa jurídica, como o CNPJ, contrato social e de suas alterações, ata de nomeação da diretoria, e documentos de identificação pessoal do representante que irá assinar a escritura."
+      },
+      {
+        "type": "heading",
+        "text": "Dos bens imóveis"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Certidão de Inteiro teor e de Ônus e Ações atualizada (30 dias);",
+          "Certidão e comprovante de quitação do ITBI;",
+          "Certidões Negativas de Débitos;"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-escritura-de-doacao",
+    "category": "Tabelionato de Notas",
+    "title": "Escritura de doação",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A escritura de doação é o contrato no qual uma pessoa, por vontade própria, transfere parte de seus bens ou vantagens para outra pessoa."
+      },
+      {
+        "type": "paragraph",
+        "text": "A doação é frequentemente usada como forma de antecipar heranças, permitindo que os pais façam doações a seus filhos. Isso pode incluir a doação com reserva de usufruto, o que garante que o doador mantenha o direito de uso do bem doado enquanto estiver vivo."
+      },
+      {
+        "type": "heading",
+        "text": "Tipos de doação:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Doação pura: sem qualquer condição ou encargo, ou seja, sem imposições futuras.",
+          "Doação com encargo: impõe ao donatário uma obrigação em benefício do doador, de terceiros, ou do interesse geral.",
+          "Doação condicional: depende da ocorrência de uma condição futura incerta.",
+          "Doação modal: o doador oferece recursos para que o donatário adquira um bem específico. Aqui, podem incidir dois impostos: ITCMD para a doação e ITBI para a compra.",
+          "Doação com reserva de usufruto: os doadores podem utilizar o bem até o fim da vida ou por um período específico."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documentos de Identificação (RG e CPF, CNH ou Passaporte);",
+          "Documento comprovante de estado civil atualizado."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Dos bens imóveis"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Certidão de matrícula com ônus e ações atualizada (30 dias);",
+          "Certidão e comprovante de quitação do ITCMD;",
+          "Certidões Negativas de débitos;"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-escritura-de-emancipacao",
+    "category": "Tabelionato de Notas",
+    "title": "Escritura de emancipação",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A escritura de emancipação é o ato jurídico que concede capacidade civil plena a um menor de 18 anos, permitindo que ele pratique todos os atos da vida civil sem a necessidade de autorização dos pais."
+      },
+      {
+        "type": "paragraph",
+        "text": "A partir dos 16 anos, os pais podem emancipar seus filhos, permitindo que eles tenham plena capacidade civil para gerir seus próprios negócios e tomar decisões jurídicas de forma independente."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ambos os pais devem comparecer para conceder a emancipação. No entanto, se um dos pais for falecido ou tiver sido destituído do poder familiar, o outro poderá conceder a emancipação sozinho, mediante a apresentação de certidão do registro civil comprovando essa situação."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documentos de Identificação (RG e CPF, CNH ou Passaporte);",
+          "Documento comprovante de estado civil atualizado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-escritura-de-inventario-e-partilha",
+    "category": "Tabelionato de Notas",
+    "title": "Escritura de inventário e partilha",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O inventário é o processo de apuração do patrimônio de uma pessoa falecida, ou seja, a verificação dos bens, dívidas e direitos que ela deixou. A partilha é a etapa seguinte, na qual esse patrimônio é dividido entre os herdeiros e o cônjuge, se houver."
+      },
+      {
+        "type": "paragraph",
+        "text": "O inventário e a partilha têm como objetivo oficializar a distribuição dos bens do falecido entre seus herdeiros e o cônjuge, garantindo a legitimidade da transferência de patrimônio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Antes de iniciar o processo de inventário e partilha, pode-se nomear um inventariante, que é a pessoa responsável por administrar o espólio (conjunto de bens deixados pelo falecido) e representá-lo legalmente, tanto perante órgãos públicos quanto privados."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Devem comparecer os herdeiros e o cônjuge sobrevivente (se houver), todos acompanhados de advogado(s). O advogado pode representar todos os herdeiros em conjunto ou apenas alguns deles."
+      },
+      {
+        "type": "heading",
+        "text": "O que é preciso para fazer um inventário e a partilha?"
+      },
+      {
+        "type": "list",
+        "items": [
+          "O processo de inventário começa após a morte de uma pessoa, que pode ou não ter deixado bens;",
+          "Se o falecido deixou testamento, é necessária uma autorização judicial para validar o documento;",
+          "O inventário pode ser feito de forma extrajudicial se todos os herdeiros forem maiores, capazes e estiverem de acordo sobre a partilha dos bens;",
+          "Se houver herdeiros menores ou incapazes, a partilha deve ser aprovada pelo Ministério Público e precisa ser igualitária."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Petição Inicial do advogado;",
+          "Indicação do inventariante;RG e CPF do falecido;",
+          "Certidão de óbito;",
+          "RG e CPF das partes;",
+          "OAB do advogado;",
+          "Comprovante ou Declaração de Residência das partes;",
+          "Documentos comprobatórios dos bens móveis e imóveis;",
+          "Certidão de estado civil das partes, dentre outros;"
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Dos bens imóveis – se houver"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Certidão de inteiro teor da matrícula e ônus e ações atualizada (30 dias);",
+          "Certidão e comprovante de quitação do ITCMD;",
+          "IPTU atualizado, dentre outros."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-pacto-antenupcial",
+    "category": "Tabelionato de Notas",
+    "title": "Pacto antenupcial",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O pacto antenupcial é o contrato celebrado pelos noivos antes do casamento, no qual eles estabelecem as regras que irão governar o regime de bens durante o matrimônio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ele serve para definir o regime de bens que o casal adotará durante o casamento. No Brasil, o regime padrão de bens é o da comunhão parcial, que se aplica automaticamente quando os cônjuges não fazem o pacto antenupcial."
+      },
+      {
+        "type": "paragraph",
+        "text": "No entanto, se quiserem outro regime, como a comunhão total ou separação de bens, ou até mesmo combinar características de diferentes regimes, o casal deve formalizar esse desejo por meio do pacto antenupcial."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ambos os noivos devem estar presentes para assinar a escritura de pacto antenupcial."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documento de identificação (RG ou CNH) e CPF;",
+          "Comprovante ou Declaração de Residência;",
+          "Certidão de Nascimento ou Casamento devidamente atualizadas;",
+          "Documentos comprovatórios dos bens móveis e imóveis a serem citados na escritura, se houver."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "notas-procuracao-publica",
+    "category": "Tabelionato de Notas",
+    "title": "Procuração pública",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A procuração é um documento em que uma pessoa (outorgante) autoriza outra (procurador) a agir em seu nome para realizar determinados atos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ela serve para delegar poderes para que uma ou mais pessoas possam agir em nome do mandante. A procuração pode ter prazo determinado ou indeterminado, dependendo do que for estipulado."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Apenas o outorgante precisa estar presente para outorgar os poderes. O procurador, ou mandatário, pode ou não estar presente, mas se comparecer, já pode assinar o documento, aceitando os poderes delegados."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documento de identificação de ambos (RG ou CNH) e CPF;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Comprovante ou Declaração de Residência;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidão de Nascimento ou Casamento devidamente atualizadas;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos comprovatórios dos bens móveis e imóveis a serem citados, se houver necessidade."
+      }
+    ]
+  },
+  {
+    "id": "notas-testamento-publico",
+    "category": "Tabelionato de Notas",
+    "title": "Testamento público",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O testamento é um documento pelo qual uma pessoa (testador) declara como deseja que seus bens sejam distribuídos após sua morte, além de outras vontades pessoais. O testamento pode ser revogado ou alterado enquanto o testador estiver vivo e em plena capacidade mental. Ele só tem validade após a morte do testador."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualquer pessoa, a partir dos 16 anos pode fazer um testamento, desde que tenha plena capacidade mental e queira determinar como seus bens serão distribuídos."
+      },
+      {
+        "type": "heading",
+        "text": "Tipos de testamento"
+      },
+      {
+        "type": "paragraph",
+        "text": "-Testamento público: feito no cartório por um tabelião, na presença de duas testemunhas. Tem força probatória plena;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Testamento cerrado: escrito pelo testador e levado ao tabelião para ser aprovado, também na presença de duas testemunhas;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Testamento particular: escrito pelo testador ou por alguém a seu pedido, na presença de três testemunhas. Após a morte, deve ser validado por um juiz."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documento de identificação de ambos (RG ou CNH) e CPF;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Comprovante ou Declaração de Residência;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidão de Nascimento ou Casamento devidamente atualizadas;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos comprovatórios dos bens móveis e imóveis a serem citados, se houver necessidade."
+      }
+    ]
+  },
+  {
+    "id": "notas-uniao-estavel",
+    "category": "Tabelionato de Notas",
+    "title": "União estável",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A união estável é o reconhecimento de uma relação como entidade familiar, caracterizada pela convivência pública, contínua e duradoura, com o objetivo de constituição de família."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ela serve para que os companheiros definam como irão organizar seu patrimônio, tanto individual quanto conjunto, e como administrarão os bens adquiridos durante a convivência. É uma forma de formalizar direitos e deveres no relacionamento."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ambos os conviventes devem comparecer para formalizar o reconhecimento da união estável."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documento de identificação de ambos (RG ou CNH) e CPF;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Comprovante ou Declaração de Residência;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidão de Nascimento ou Casamento devidamente atualizadas;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos comprovatórios dos bens móveis e imóveis a serem citados, se houver necessidade."
+      }
+    ]
+  },
+  {
+    "id": "notas-usucapiao-ata-notarial",
+    "category": "Tabelionato de Notas",
+    "title": "Usucapião (ata notarial)",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A ata notarial para usucapião é um documento público obrigatórios para o reconhecimento da usucapião extrajudicial, comprovando a posse contínua e pacífica do imóvel."
+      },
+      {
+        "type": "heading",
+        "text": "Quem deve comparecer?"
+      },
+      {
+        "type": "paragraph",
+        "text": "O solicitante da ata notarial."
+      },
+      {
+        "type": "heading",
+        "text": "Preciso de advogado?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Não é obrigatório ter advogado para a lavratura da ata notarial, mas é recomendável para obter orientação especializada. Já no processo de usucapião extrajudicial, é obrigatória a presença de um advogado ou defensor público."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos pessoais (RG e CPF) dos solicitantes."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Planta e memorial descritivo do imóvel atualizados."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidões negativas dos distribuidores cíveis da comarca do imóvel e do domicílio dos solicitantes."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Justo título (Ex.: contrato de compra e venda, compromisso de venda e compra)."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Duas contas de consumo (luz, água, telefone, etc.) ou pagamento de impostos (IPTU), as mais antigas e duas recentes em nome do posseiro."
+      },
+      {
+        "type": "paragraph",
+        "text": "- IPTU atual e de anos anteriores."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Matrícula ou transcrição do imóvel usucapiendo ou negativa de inscrição tabular."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Matrícula ou transcrição dos confrontantes do imóvel ou certidões de ônus reais e ações reais e pessoais reipersecutórias do imóvel e dos confrontantes."
+      },
+      {
+        "type": "paragraph",
+        "text": "- Outros documentos que comprovem o tempo de posse, como recibos de compra de materiais de construção, obras ou serviços, imposto de renda, entre outros."
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-alteracao-de-nome-ou-sobrenome",
+    "category": "Registro Civil",
+    "title": "Alteração de nome ou sobrenome",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O que é a alteração de nome e sobrenome no registro civil?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A alteração de nome ou sobrenome é uma possibilidade oferecida pela Lei para modificar esses dados diretamente no Cartório de Registro Civil das Pessoas Naturais. Isso pode ser feito em situações diferentes:"
+      },
+      {
+        "type": "heading",
+        "text": "1. Alteração do nome do recém-nascido pelos pais:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Os pais têm até 15 (quinze) dias após o registro da criança para solicitar a mudança do prenome (primeiro nome) ou sobrenome da mesma. No entanto, ambos os pais precisam estar de acordo."
+      },
+      {
+        "type": "heading",
+        "text": "2. Alteração do prenome por maiores de 18 anos:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualquer pessoa maior de 18 anos pode mudar o seu prenome uma única vez, sem precisar justificar o motivo e sem precisar entrar com Ação Judicial. A mudança é feita diretamente no cartório."
+      },
+      {
+        "type": "paragraph",
+        "text": "Caso o oficial do cartório suspeite de fraude ou má-fé, pode negar o pedido."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos de identificação (RG, CPF, CNH, passaporte);"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidão de estado civil atualizada;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Título de eleitor;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Comprovante de endereço;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidões negativas de processos civis, criminais e de protesto dos últimos 5 anos, dentre outros."
+      },
+      {
+        "type": "heading",
+        "text": "3. Alteração de sobrenome:"
+      },
+      {
+        "type": "paragraph",
+        "text": "A alteração do sobrenome pode ser feita diretamente no cartório, sem precisar de autorização judicial, nas seguintes situações:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Inclusão de sobrenomes da família;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Inclusão ou exclusão de sobrenome em razão de mudança na filiação (para filhos, cônjuges ou companheiros);"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Inclusão ou exclusão do sobrenome do cônjuge durante o casamento;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Exclusão do sobrenome do ex-cônjuge após o divórcio;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Inclusão ou exclusão de sobrenome em união estável, desde que a União Estável seja registrada no cartório."
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-alteracao-de-prenome-e-sexo-de-pessoa-transgenero",
+    "category": "Registro Civil",
+    "title": "Alteração de prenome e sexo de pessoa transgênero",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Toda pessoa maior de 18 (dezoito) anos completos habilitada à prática de todos os atos da vida civil poderá requerer ao serviço de Registro Civil de Pessoas Naturais a alteração e a averbação do prenome e do gênero no registro de nascimento e casamento, a fim de adequá-los à identidade autopercebida, independentemente de autorização judicial."
+      },
+      {
+        "type": "paragraph",
+        "text": "A alteração prevista no caput poderá abranger a inclusão ou a exclusão de agnomes indicativos de gênero ou de descendência, sem prejuízo do sobrenome, e desde que não implique na identidade de prenome com outro membro da família."
+      },
+      {
+        "type": "paragraph",
+        "text": "A averbação da alteração do prenome e gênero poderá ser desconstituída na via administrativa, mediante autorização do Corregedor Permanente, ou na via judicial."
+      },
+      {
+        "type": "paragraph",
+        "text": "O requerimento poderá ser feito em qualquer Registro Civil das Pessoas Naturais do Estado de Goiás, que o encaminhará ao serviço extrajudicial do local do registro de nascimento e casamento para realização das averbações e anotações, via CRC, às expensas do requerente."
+      },
+      {
+        "type": "paragraph",
+        "text": "O procedimento será realizado com fundamento na autonomia do requerente, que declarará perante o oficial de registro, a vontade de proceder à adequação da identidade mediante a averbação do prenome, do gênero ou de ambos."
+      },
+      {
+        "type": "paragraph",
+        "text": "O atendimento do requerimento independe de prévia autorização judicial ou da comprovação de realização de cirurgia de redesignação sexual, de tratamento hormonal ou patologizante ou de apresentação de laudo médico ou psicológico."
+      },
+      {
+        "type": "paragraph",
+        "text": "O oficial identificará o requerente mediante conferência dos documentos pessoais originais e coleta, em termo próprio235, de sua qualificação e assinatura na sua presença."
+      },
+      {
+        "type": "paragraph",
+        "text": "O requerente indicará da alteração pretendida e declarará a inexistência de processo judicial que tenha por objeto a alteração pretendida."
+      },
+      {
+        "type": "paragraph",
+        "text": "A opção pela via administrativa será condicionada à comprovação de arquivamento do processo judicial que se requer a alteração do prenome e gênero."
+      },
+      {
+        "type": "heading",
+        "text": "O requerimento será acompanhado dos seguintes documentos:"
+      },
+      {
+        "type": "paragraph",
+        "text": "I – certidão de nascimento atualizada;"
+      },
+      {
+        "type": "paragraph",
+        "text": "II – certidão de casamento atualizada, se for o caso;"
+      },
+      {
+        "type": "paragraph",
+        "text": "III – cópia do registro geral de identidade;"
+      },
+      {
+        "type": "paragraph",
+        "text": "IV – cópia da Identificação Civil Nacional – ICN, se for o caso;"
+      },
+      {
+        "type": "paragraph",
+        "text": "V – cópia do passaporte brasileiro, se for o caso;"
+      },
+      {
+        "type": "paragraph",
+        "text": "VI – cópia do Cadastro de Pessoa Física – CPF;"
+      },
+      {
+        "type": "paragraph",
+        "text": "VII – cópia do título de eleitor;"
+      },
+      {
+        "type": "paragraph",
+        "text": "IX – cópia de carteira de identidade social, se for o caso;"
+      },
+      {
+        "type": "paragraph",
+        "text": "X – comprovante de endereço;"
+      },
+      {
+        "type": "paragraph",
+        "text": "XI – certidão dos distribuidores cível e criminal do local de residência dos últimos cinco anos, estadual e federal;"
+      },
+      {
+        "type": "paragraph",
+        "text": "XII – certidão dos tabelionatos de protestos do local de residência dos últimos cinco anos;"
+      },
+      {
+        "type": "paragraph",
+        "text": "XIII – certidão da Justiça Eleitoral do local de residência dos últimos cinco anos;"
+      },
+      {
+        "type": "paragraph",
+        "text": "XIV – certidão da Justiça do Trabalho do local de residência dos últimos cinco anos; e"
+      },
+      {
+        "type": "paragraph",
+        "text": "XV – certidão da Justiça Militar, se for o caso."
+      },
+      {
+        "type": "paragraph",
+        "text": "A falta de documento listado neste artigo impede a alteração requerida."
+      },
+      {
+        "type": "paragraph",
+        "text": "As ações em andamento ou débitos pendentes, nas hipóteses dos incisos XI, XII, XIII, XIV e XV não impedem a averbação da alteração pretendida, que será comunicada aos juízos e órgãos competentes pela serventia em que o requerimento foi formalizado."
+      },
+      {
+        "type": "paragraph",
+        "text": "A documentação referida neste artigo permanecerá arquivada indefinidamente no serviço de Registro Civil de Pessoas Naturais em que foi lavrado o assento de nascimento ou casamento e naquele em que foi averbada a alteração, se diversos, de forma física ou eletrônica."
+      },
+      {
+        "type": "paragraph",
+        "text": "É facultada a juntada dos seguintes documentos para a instrução do procedimento previsto nesta seção:"
+      },
+      {
+        "type": "paragraph",
+        "text": "I – laudo médico que ateste a transexualidade e travestilidade;"
+      },
+      {
+        "type": "paragraph",
+        "text": "II – parecer psicológico que ateste a transexualidade e travestilidade;"
+      },
+      {
+        "type": "paragraph",
+        "text": "III – laudo médico que ateste a realização de cirurgia de redesignação de sexo."
+      },
+      {
+        "type": "paragraph",
+        "text": "O procedimento e a alteração de prenome e sexo de transgênero tem natureza sigilosa e a informação a seu respeito não constará das certidões dos assentos, salvo por solicitação do requerente ou por determinação judicial, hipóteses em que será certificado todo o conteúdo registral."
+      },
+      {
+        "type": "paragraph",
+        "text": "Finalizado o procedimento de alteração de prenome e gênero no assento, o serviço de Registro Civil de Pessoas Naturais no qual se processou a alteração comunicará o ato oficialmente aos órgãos expedidores do RG, CPF, ICN, passaporte e ao Tribunal Regional Eleitoral – TRE, às expensas do requerente."
+      },
+      {
+        "type": "paragraph",
+        "text": "O requerente providenciará a alteração nos demais registros que digam respeito, direta ou indiretamente, a sua identificação e nos documentos pessoais."
+      },
+      {
+        "type": "paragraph",
+        "text": "A subsequente averbação da alteração do prenome e do gênero no registro de nascimento dos descendentes do requerente dependerá da anuência deles quando relativamente capazes ou maiores, e de ambos os pais."
+      },
+      {
+        "type": "paragraph",
+        "text": "A averbação da alteração do prenome e do gênero no registro de casamento dependerá da anuência do cônjuge."
+      },
+      {
+        "type": "paragraph",
+        "text": "Havendo discordância dos pais ou do cônjuge quanto à averbação mencionada nos parágrafos anteriores o consentimento deverá ser suprido judicialmente."
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-interdicao",
+    "category": "Registro Civil",
+    "title": "Interdição",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "O que é interdição?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Interdição ou curatela é uma medida de amparo àqueles que não têm discernimento para a prática dos atos da vida civil."
+      },
+      {
+        "type": "heading",
+        "text": "Quem poderá ser interditado:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Os absolutamente incapazes de exercer pessoalmente os atos da vida civil os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos e os que, mesmo por causa transitória, não puderem exprimir sua vontade."
+      },
+      {
+        "type": "paragraph",
+        "text": "E, os incapazes relativamente a certos atos, ou à maneira de exercê-los: os ébrios habituais, os viciados em tóxicos, e os que, por deficiência mental, tenham o discernimento reduzido; os excepcionais, sem desenvolvimento mental completo; e os pródigos."
+      },
+      {
+        "type": "heading",
+        "text": "Como é feita?"
+      },
+      {
+        "type": "paragraph",
+        "text": "É feita através de processo judicial e posteriormente é registrada no Livro E do Cartório de Registro Civil, no 1º Subdistrito da Sede da Comarca. Além disso, essa informação constará nas certidões de nascimento e casamento da pessoa interditada."
+      },
+      {
+        "type": "heading",
+        "text": "Quem pode solicitar?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A interdição pode ser solicitada pelo cônjuge, companheiro ou outro familiar. O Ministério Público também pode pedir a interdição, especialmente em casos de doença mental grave."
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-casamento",
+    "category": "Registro Civil",
+    "title": "Casamento",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O casamento é ato formal e solene que se realiza no momento em que os nubentes manifestam, perante o Juiz de Paz, a sua vontade em estabelecerem vínculo conjugal."
+      },
+      {
+        "type": "paragraph",
+        "text": "Apenas com o casamento a pessoa altera seu estado civil para casada."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "O requerimento de habilitação para o casamento, dirigido ao oficial de registro da residência de um dos nubentes, será instruído com os seguintes documentos:"
+      },
+      {
+        "type": "paragraph",
+        "text": "I – certidão de nascimento ou documento equivalente, expedida há menos de 6 (seis) meses, salvo se o registrador certificar que não houve alteração do estado civil ou existir motivos que impossibilitem sua obtenção;mnj"
+      },
+      {
+        "type": "paragraph",
+        "text": "II – declaração do estado civil, do domicílio e da residência atual dos contraentes e de seus pais, se forem conhecidos;"
+      },
+      {
+        "type": "paragraph",
+        "text": "III – autorização por escrito das pessoas sob cuja dependência legal estiverem, ou ato judicial que a supra;"
+      },
+      {
+        "type": "paragraph",
+        "text": "IV – certidão de óbito do cônjuge falecido, de sentença declaratória de nulidade ou de anulação de casamento transitada em julgado, ou do registro da sentença de divórcio;"
+      },
+      {
+        "type": "paragraph",
+        "text": "V – quando for o caso, a sentença estrangeira de divórcio, litigiosa ou consensual, independentemente de homologação pelo Superior Tribunal de Justiça, para fins de comprovação da extinção do casamento anterior;"
+      },
+      {
+        "type": "paragraph",
+        "text": "VI – declaração de duas testemunhas maiores, parentes ou não, que atestem conhecê-los e afirmem não existir impedimento que os iniba de casar."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se o contraente for analfabeto, ou não puder assinar, o pedido será firmado “a rogo”, com duas testemunhas, constando da certidão de habilitação a circunstância."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nos autos de habilitação de casamento constarão os emolumentos e demais despesas, salvo se isento, na forma da lei."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se o oficial suspeitar da verossimilhança da declaração de pobreza, comunicará o fato ao juízo com competência em registros público, por escrito, com exposição de suas razões, para as providências pertinentes"
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-nascimento",
+    "category": "Registro Civil",
+    "title": "Nascimento",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "O Registro de Nascimento é o primeiro passo para garantir a cidadania de uma pessoa. Esse registro confirma que a criança nasceu com vida e inclui informações importantes como a data, hora e local de nascimento, além do nome dos pais e dos avós maternos e paternos."
+      },
+      {
+        "type": "paragraph",
+        "text": "Além de ser um direito fundamental de todo cidadão, a certidão de nascimento é necessária em uma série de situações, desde a matrícula escolar até a obtenção de documentos de identidade e outros registros oficiais."
+      },
+      {
+        "type": "heading",
+        "text": "Onde registrar?"
+      },
+      {
+        "type": "paragraph",
+        "text": "O nascimento será registrado no cartório do lugar onde ocorrer o parto ou de residência dos pais."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Documento de Identificação dos pais (RG e CPF);",
+          "Declaração de Nascido Vivo (DNV), entregue pelo hospital;",
+          "Comprovante de endereço;",
+          "Certidão de nascimento ou casamento dos pais."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Quanto custa?"
+      },
+      {
+        "type": "paragraph",
+        "text": "O registro civil de nascimento, bem como a primeira certidão respectiva são gratuitos."
+      }
+    ]
+  },
+  {
+    "id": "registro-civil-obito",
+    "category": "Registro Civil",
+    "title": "Óbito",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A Certidão de Óbito é o registro do falecimento do indivíduo."
+      },
+      {
+        "type": "heading",
+        "text": "Onde registrar?"
+      },
+      {
+        "type": "paragraph",
+        "text": "O registro do óbito será lavrado pelo oficial de registro civil de pessoas naturais do lugar do falecimento ou da residência do morto, quando ocorrer em local diverso do seu domicílio, em vista de atestado firmado por médico ou por 2 (duas) pessoas qualificadas que tiverem presenciado ou verificado a morte."
+      },
+      {
+        "type": "heading",
+        "text": "Quem pode solicitar o registro de óbito?"
+      },
+      {
+        "type": "paragraph",
+        "text": "I – cônjuge ou companheiro a respeito do outro e dos filhos, hóspedes, agregados e fâmulos;"
+      },
+      {
+        "type": "paragraph",
+        "text": "II – filho, a respeito do pai ou da mãe;"
+      },
+      {
+        "type": "paragraph",
+        "text": "III – irmão, a respeito dos irmãos e demais pessoas de casa;"
+      },
+      {
+        "type": "paragraph",
+        "text": "IV – parente mais próximo maior e presente;"
+      },
+      {
+        "type": "paragraph",
+        "text": "V – administrador, diretor ou gerente de qualquer estabelecimento público ou particular, a respeito dos que nele faleceram, salvo se estiver presente algum parente, observados os graus de parentesco indicados neste artigo;"
+      },
+      {
+        "type": "paragraph",
+        "text": "VI – na falta de pessoa competente, nos termos deste artigo, a que tiver assistido aos últimos momentos do finado, o médico, o sacerdote ou vizinho que do falecimento tiver notícia; e,"
+      },
+      {
+        "type": "paragraph",
+        "text": "VII – autoridade policial, a respeito de pessoas encontradas mortas. Parágrafo único. A declaração poderá ser feita por mandatário, constituído em procuração com firma reconhecida por semelhança, ou, quando couber a representante de estabelecimento público ou particular, mediante preposto autorizado por escrito."
+      },
+      {
+        "type": "heading",
+        "text": "Documentação necessária:"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos de identificação do declarante do registro do óbito;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Declaração de óbito – D.O.;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Documentos de identificação do falecido (RG, CNH, CPF);"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Certidão de estado civil do falecido;"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Carteira de Trabalho (se possível);"
+      },
+      {
+        "type": "paragraph",
+        "text": "- Título de Eleitor (se possível);"
+      },
+      {
+        "type": "heading",
+        "text": "Quanto custa?"
+      },
+      {
+        "type": "paragraph",
+        "text": "O registro civil de óbito, bem como a primeira certidão respectiva são gratuitos."
+      },
+      {
+        "type": "heading",
+        "text": "DA CREMAÇÃO"
+      },
+      {
+        "type": "paragraph",
+        "text": "A cremação de cadáver somente será feita daquele que houver manifestado vontade de ser incinerado ou no interesse da saúde pública, desde que o atestado de óbito tenha sido firmado por dois médicos ou por um médico legista e, no caso de morte violenta, depois de autorizada pela autoridade judiciária."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tratando-se de morte violenta e o cadáver for objeto de investigação, a cremação dependerá de autorização do juízo criminal competente para o inquérito policial ou ação penal, após a oitiva do Ministério Público, devendo o respectivo pedido ser instruído com cópia do exame pericial cadavérico em que conste expressamente a causa mortis."
+      },
+      {
+        "type": "paragraph",
+        "text": "Na hipótese de morte natural, as questões referentes à cremação serão decididas pelo juízo com competência em matéria de registros públicos da comarca em que se lavrar o óbito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Caso o falecido não tenha deixado por escrito o desejo de ser cremado, o cônjuge, companheiro ou parente até o 3º grau poderá declarar, mediante documento assinado por 2 (duas) testemunhas e com firmas reconhecidas, que o de cujus, em vida, manifestou a vontade de ser incinerado, autorizando a cremação. É dispensado o reconhecimento de firma quando a autorização para a cremação for firmada na presença do oficial de registro ou de escrevente autorizado."
+      }
+    ]
+  }
+]
